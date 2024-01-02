@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-image: url("picture/DOT.png");
+	min-height: 360;
+	width: 1200;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+}
+ a:hover {
+	color: red;
+  }
+td{
+	padding-left: 20;
+}
+
+th{
+	padding-top: 20;
+	padding-left: 20;
+}
